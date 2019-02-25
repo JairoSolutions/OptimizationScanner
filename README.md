@@ -1,0 +1,2 @@
+# OptimizationScanner
+Sitecore personalization scanner
